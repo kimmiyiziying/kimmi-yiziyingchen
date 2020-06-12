@@ -1,2 +1,4 @@
 name: Kimmi-Yiziying Chen, Personal Page
 markdown: kramdown
+
+theme: jekyll-theme-minimal

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kimmi-Yiziying Chen, Horrible Cop, Launches Site"
+title: "Kimmi-Yiziying Chen, Launches Site"
 date: 2020-06-12
 ---
 

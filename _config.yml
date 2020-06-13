@@ -2,3 +2,5 @@ name: Kimmi-Yiziying Chen, Personal Page
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+
+permalink: /blog/:year/:month/:day/:title

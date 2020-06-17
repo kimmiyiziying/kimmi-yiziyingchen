@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kimmi-Yiziying Chen, Launches Site"
+title: "Kimmi-Yiziying Chen, hit on Zoom"
 date: 2020-06-16
 ---
 
